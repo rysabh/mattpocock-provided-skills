@@ -2,6 +2,8 @@
 name: My Reference - For these skills
 description: Which of these skills you type yourself, and which only feed other skills.
 tags:
+  - source/ai-generated/claude-code
+  - source-trust/unverified
 rating:
 related_notes:
   - "[[_MOC_rishabh-comments]]"
