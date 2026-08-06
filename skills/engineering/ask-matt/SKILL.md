@@ -1,7 +1,10 @@
 ---
 name: ask-matt
-description: Ask which skill or flow fits your situation. A router over the skills in this repo.
+description: Ask which skill or flow fits your situation. A router over the
+  skills in this repo.
 disable-model-invocation: true
+metadata:
+  copilot-enabled-agents: opencode,claude,codex
 ---
 
 # Ask Matt
