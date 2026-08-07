@@ -39,24 +39,6 @@ The `/ask-matt` map says this itself. It calls `/domain-modeling` and `/codebase
 - **Run the session:** `/ask-matt`, `/wait-what`, `/handoff`, `/teach`
 - **Once, at setup:** `/setup-matt-pocock-skills`
 
-## Not part of this system — tools (13)
-
-These wrap outside apps. They are neither flow nor reference. I reach for them when a task touches those apps.
-
-- `copilot-web-search`
-- `copilot-web-fetch`
-- `copilot-fetch-x`
-- `copilot-youtube-transcript`
-- `miyo-search`
-- `miyo-search-remote`
-- `miyo-parse`
-- `obsidian-markdown`
-- `obsidian-bases`
-- `obsidian-cli`
-- `json-canvas`
-- `skill-obsidian-2-pdf`
-- `symposium-publish`
-
 ## The honest edge case
 
 `/wizard` sits between two groups. It writes a setup script for steps only a human can do. I start it when I hit a wall, but you can also type it. Call it yours.
